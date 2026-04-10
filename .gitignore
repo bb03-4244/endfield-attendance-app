@@ -9,3 +9,5 @@ captures/
 .cxx/
 .DS_Store
 Thumbs.db
+*.apk
+

@@ -9,7 +9,7 @@
 
     <application
         android:name=".EndfieldApplication"
-        android:allowBackup="true"
+        android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="엔드필드 출석"
         android:roundIcon="@mipmap/ic_launcher_round"
